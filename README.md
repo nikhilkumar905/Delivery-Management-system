@@ -56,11 +56,13 @@ An all-in-one **C++ Console Application** that streamlines the logistics of mana
 
    ```bash
    git clone https://github.com/yourusername/delivery-management-system.git
-2.Compile the code
+2.Compile the code:
+
     g++ -std=c++11 main.cpp -o delivery_system
-3. Run the executable
+3. Run the executable:
     ./delivery_system
-4. #sample Output
+
+4. #sample Output:
   === Delivery Management System ===
   1. View Dashboard
   2. Manage Orders
