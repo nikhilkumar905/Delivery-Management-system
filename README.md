@@ -55,18 +55,20 @@ An all-in-one **C++ Console Application** that streamlines the logistics of mana
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/delivery-management-system.git
+    git clone https://github.com/yourusername/delivery-management-system.git
 2.Compile the code:
 
     g++ -std=c++11 main.cpp -o delivery_system
 3. Run the executable:
+
     ./delivery_system
 
-4. #sample Output:
-  === Delivery Management System ===
-  1. View Dashboard
-  2. Manage Orders
-  3. Optimize Routes
-  4. Notifications
-  0. Exit
+5. #sample Output:
+
+    === Delivery Management System ===
+    1. View Dashboard
+    2. Manage Orders
+    3. Optimize Routes
+    4. Notifications
+    0. Exit
 
